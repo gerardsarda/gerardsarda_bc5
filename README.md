@@ -4,7 +4,6 @@ Business Case 5 del programa MDA13 de la escuela de negocios ISDI.
 
 Este repositorio es un ejercicio docente. Los datos son sintéticos y no corresponden a ningún usuario real de Spotify. La estructura del dataset está inspirada en el formato de exportación de datos de Spotify, pero ha sido generada específicamente para este caso.
 
-Ante cualquier duda: mtaboada@isdi.education
 
 ## Puesta en marcha
 
